@@ -55,3 +55,36 @@ body {
 ul {
     list-style-type: none;
 }
+
+/* main background for header section*/
+.header {
+    background-color: #4c6991;
+    min-height: 400px;
+}
+
+.header h1 {
+    font-size: 40px;
+    margin: 30px;
+}
+
+.header img {
+    max-width: 500px;
+    max-height: 500px;
+    padding: 10px;
+    margin-top: 60px;
+    margin-right: 40px;
+    border-radius: 30px;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header p {
+    max-width: 400px;
+    font-size: 16px;
+    padding: 0px;
+    margin-left: 70px;
+}
