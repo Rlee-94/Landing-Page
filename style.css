@@ -224,3 +224,18 @@ ul {
     padding-left: 10px;
 }
 
+.sign-button .button {
+    margin-left: 350px;
+}
+
+/*footer section*/
+
+.copyright {
+    color: white;
+    background-color: #1f2937;
+    font-size: 16px;
+    text-align: center;
+    height: 60px;
+    padding-top: 20px;
+
+}
