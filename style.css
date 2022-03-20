@@ -174,19 +174,17 @@ ul {
 
 .box-quote p {
     font-size: 36px;
-    color: #1F2937;
+    color: #4c6991;
     font-style: italic;
     font-weight: lighter;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .box-quote b {
     padding-bottom: 20px;
     padding-right: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     text-align: right;
-    color: black;
+    color: #385986;
 }
 
 /* Sign up box section*/
@@ -217,7 +215,6 @@ ul {
 
 .sign-up h3 {
     color: #fff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 0;
     margin: 10px 10px;
     padding-left: 10px;
