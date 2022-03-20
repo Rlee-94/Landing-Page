@@ -187,3 +187,17 @@ ul {
     text-align: right;
     color: black;
 }
+
+/* Sign up box section*/
+.sign-up {
+    background-color: #4c6991;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+}
+
+
+
