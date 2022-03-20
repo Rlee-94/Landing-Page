@@ -137,6 +137,11 @@ ul {
     color: #385986;
     font-size: 18px;
     padding: 10px 10px;
+    margin-bottom: 50px;
+}
+
+.box-info p{
+    margin: 20px 10px;
 }
 
 
@@ -154,4 +159,31 @@ ul {
     font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+/* Quote section*/
+
+.box-quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 100px 200px;
+    max-height: 300px;
+}
+
+.box-quote p {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box-quote b {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: right;
+    color: black;
 }
