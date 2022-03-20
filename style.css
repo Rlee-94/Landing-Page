@@ -16,7 +16,7 @@ body {
     padding: 0 30px;
 }
 
-/* navbar background, text color, and height of background-color*/
+/* navbar section */
 .navbar {
     background-color: #1f2937;
     color: white;
@@ -30,7 +30,7 @@ body {
     height: 100%;
 }
 
-/* navbar links */
+
 .navbar a {
     color: white;
     text-decoration: none;
@@ -56,7 +56,7 @@ ul {
     list-style-type: none;
 }
 
-/* main background for header section*/
+/* Header section*/
 .header {
     background-color: #4c6991;
     min-height: 400px;
@@ -112,6 +112,7 @@ ul {
     transform: translateY(4px);
 }
 
+/*Boxes section*/
 .boxes .container{
     display: flex;
     justify-content: space-between;
@@ -133,7 +134,9 @@ ul {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    color: #1f2937;
+    color: #385986;
+    font-size: 18px;
+    padding: 10px 10px;
 }
 
 
