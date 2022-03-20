@@ -88,3 +88,36 @@ ul {
     padding: 0px;
     margin-left: 70px;
 }
+
+.boxes .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1500px;
+    max-height: auto;
+}
+
+.box {
+    flex: 1 1 0px;
+    background-color: #684c14;
+    border-radius: 10px;
+    margin: 20px 10px;
+    box-shadow: 0 3px 5px rgba(173, 145, 145, 0.6);
+    padding: 5px 5px;
+}
+
+.box img{
+    width: 100%;
+    min-height: 300px;
+    height: 100%;
+    object-fit: cover;
+    padding-top: 2px;
+}
+
+.boxes-header {
+    color: #385986;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
