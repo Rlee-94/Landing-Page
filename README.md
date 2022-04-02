@@ -1,8 +1,41 @@
-# Landing-Page
+# Landing Page
 
-This is my second project from TOP. I am creating a simple landing page that will showcase the use of HTMl,CSS, using flex, borders, padding, and margin.
-It will also showcase the ability to use git commits to push changes to my portoflio.
+Project to create a Landing Page for a website. 
 
- I plan to come back and implement javascript when I have more experience.
+From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/foundations-landing-page)
 
- Here is the url for the live preview of the website: https://rlee-94.github.io/Landing-Page/
+🔗 **Live preview:** [here](https://rlee-94.github.io/Landing-Page/)
+
+## Built with
+* HTML
+* CSS
+
+### Tools
+
+* Visual Studio Code
+* MacOS terminal
+* Git and GitHub
+
+
+## Outcome
+
+* Used HTML5 for better readability and structure.
+* Used CSS for styling. 
+* Used **Git** and **GitHub** for project management.
+* Tried to maintain **clean code**.
+* **Cross tested** on Firefox and Chromium based browsers.
+
+## Summary
+
+### What I learned
+
+* Gained a better understanding of **HTML** and **CSS** foundations.
+* Practiced aligning and containing a webpage using **flex** 
+* Improved **code structure** and **code readability**.
+* Improved **clean code** writing.
+
+
+## Author
+
+👤 **Rlee-94**
+* GitHub: [Rlee-94](https://github.com/Rlee-94)
